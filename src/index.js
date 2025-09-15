@@ -2,10 +2,12 @@ import { promises as fs } from 'fs'
 
 import { PLACEHOLDERS, NUMBER_OF, YOUTUBE_CHANNEL_IDS } from './constants.js'
 
+mvhjfhjcfhbfchcfhjfchfgghhddghdhdhfdhgdghdhgdghdgdhhdghd
 const {
   // INSTAGRAM_API_KEY,
   // TWITCH_API_CLIENT_KEY,
   // TWITCH_API_SECRET_KEY,
+  hgfffhjfhjfjfhfjhf
   YOUTUBE_API_KEY
 } = process.env
 
